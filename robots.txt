@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lysorkent.github.io/sitemap.html.gz
+Sitemap: https://lysorkent.github.io/app/sitemap.html.gz
+Sitemap: https://lysorkent.github.io/assets/sitemap.html.gz
+Sitemap: https://lysorkent.github.io/css/sitemap.html.gz
+Sitemap: https://lysorkent.github.io/includes/sitemap.html.gz
+Sitemap: https://lysorkent.github.io/item/sitemap.html.gz
+Sitemap: https://lysorkent.github.io/src/sitemap.html.gz
